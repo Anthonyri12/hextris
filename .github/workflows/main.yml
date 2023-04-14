@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: sitecourantho
-        password: iCwpRiCu7(Pxzz((Ent*
+        username: sitecourantho2
+        password: $5cVASmF$uENsWYY7$r4
         server-dir : public_html/
