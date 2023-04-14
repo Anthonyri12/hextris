@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: sitecourantho
-        password: ^bO$8DxE4c5%8ch4aZug
+        password: ^bO$8DxE4c5%8ch4aZu
         server-dir : public_html/
